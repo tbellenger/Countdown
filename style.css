@@ -1,0 +1,13 @@
+body {
+    background-image: url("./firework.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-color: black;
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.box { 
+    justify-content: center;
+}
